@@ -6,10 +6,6 @@ WordPress plugin that changes the order from descending (reverse chronological) 
 
 TODO
 
-## Requirements
-
-None.
-
 ## Installation
 
 Install the plugin [the usually way](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
@@ -18,9 +14,13 @@ You can also install it with [*GitHub Updater*](https://github.com/afragen/githu
 
 ## Frequently Asked Questions
 
+### Are there any requirements?
+
+Nope.
+
 ### Where is the setting page?
 
-Look for *Personalized Content* in the Settings menu.
+Look for *Archive Reverser* in the Settings menu.
 
 ### How do I know if there is a new version?
 
