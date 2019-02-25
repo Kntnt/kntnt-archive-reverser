@@ -20,7 +20,7 @@ namespace Kntnt\Archive_Reverser;
 defined( 'WPINC' ) || die;
 
 // Set WP_DEBUG to TRUE in wp-config.php and uncomment next line to debug.
-define( 'KNTNT_ARCHIVE_REVERSER', true );
+// define( 'KNTNT_ARCHIVE_REVERSER', true );
 
 require_once __DIR__ . '/autoloader.php';
 
