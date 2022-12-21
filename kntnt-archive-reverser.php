@@ -6,7 +6,7 @@
  * Plugin URI:        https://github.com/kntnt/kntnt-archive-reverser
  * GitHub Plugin URI: https://github.com/kntnt/kntnt-archive-reverser
  * Description:       Changes the order from descending (reverse chronological) to ascending (chronological) for how posts of selected taxonomies are presented in archives (and other places where the main query is used).
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
